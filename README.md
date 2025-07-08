@@ -3,7 +3,7 @@
 Hey there, I'm Peter! 👋
 <p>I'm a passionate developer building things for the web. I love turning complex problems into simple, beautiful, and intuitive designs.</p>
 
-<img src="https://www.google.com/search?q=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDB2a2N0d2Z5d2h6dG5kaGZ6Z2Q0c2N6c2ZqZzRzM3p6a3h2c2NqZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M9gbBd9hDx80E/giphy.gif" width="400" />
+![6d8e625b79db5010c3da3e6047bf5a2b](https://github.com/user-attachments/assets/6aff54bd-333e-46d8-a4cb-55a9ea80f28e)
 
 </div>
 
@@ -19,13 +19,13 @@ Hey there, I'm Peter! 👋
 💻 My Tech Stack
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djs,ts,react,nextjs,nodejs,express,mongodb,tailwind,figma,git" />
+<img src="https://skillicons.dev/icons%3Fi%3Djs,ts,react,nextjs,nodejs,express,mongodb,tailwind,figma,git" />
 </a>
 </p>
 
 📊 My GitHub Stats
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fridrex&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DFridrex&layout=compact&langs_count=8&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DFridrex&layout=compact&langs_count=8&theme=dracula"/>
 </p>
 </p>
