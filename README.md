@@ -18,8 +18,7 @@ Hey there, I'm Peter! 👋
 
 💻 My Tech Stack
 <p align="center">
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons%3Fi%3Djs,ts,react,nextjs,nodejs,express,mongodb,tailwind,figma,git" />
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,figma,git)](https://skillicons.dev)
 </a>
 </p>
 
