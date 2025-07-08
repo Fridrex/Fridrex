@@ -9,6 +9,7 @@ Hey there, I'm Peter! 👋
 </div>
 
 🚀 What I'm Up To
+
 🔭   I’m currently building a top-secret project involving real-time data visualization.
 
 🌱   Diving deep into the world of TypeScript, Next.js, and Nest.js.
