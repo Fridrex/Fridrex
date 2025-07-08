@@ -28,10 +28,3 @@ Hey there, I'm Peter! 👋
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fridrex&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DFridrex&layout=compact&langs_count=8&theme=dracula"/>
 </p>
-
-📫 Let's Connect!
-<p align="center">
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/[your-linkedin-username]/" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" /></a>
-<a href="https://twitter.com/[your-twitter-username]" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Twitter-1DA1F2%3Fstyle%3Dfor-the-badge%26logo%3Dtwitter%26logoColor%3Dwhite" /></a>
-<a href="mailto:[your-email@example.com]"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" /></a>
-</p>
